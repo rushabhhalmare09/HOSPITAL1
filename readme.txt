@@ -13,6 +13,8 @@ mkdir FOLDER
   npm install node-sass --save-dev
 4.
 npm install axios
+5.
+npm install --save react-bootstrap-validation
 
 HeroSection
    - It is a=making our page responsive all the navbar content footer and all it is on the place bcz of HeroSection
