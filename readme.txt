@@ -12,7 +12,7 @@ mkdir FOLDER
 3. SCSS - Sassy css
   npm install node-sass --save-dev
 4.
-
+npm install axios
 
 HeroSection
    - It is a=making our page responsive all the navbar content footer and all it is on the place bcz of HeroSection
