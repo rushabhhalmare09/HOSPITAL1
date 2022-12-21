@@ -1,10 +1,17 @@
+0.
+  KEEP 2 FOLDERS and delete rest and do below commands
+mkdir FOLDER
+  566  npx create-react-app my-app
+  567  npm audit fix --force
+  568  cd my-app
+
 1. for icon pack -  website - https://react-icons.github.io/react-icons
    npm install react-icons --save
 2.
    npm install react-router-dom
 3. SCSS - Sassy css
   npm install node-sass --save-dev
-
+4.
 
 
 HeroSection
