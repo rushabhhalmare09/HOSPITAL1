@@ -1,5 +1,5 @@
 0.
-  KEEP 2 FOLDERS and delete rest and do below commands
+  KEEP 2 FOLDERS (src and public) and delete rest and do below commands
 mkdir FOLDER
   566  npx create-react-app my-app
   567  npm audit fix --force
